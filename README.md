@@ -17,7 +17,7 @@ world population
 
 ## Population by continents and countries wise
 
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600> ;
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600>.
 - We can see that the Asian continent contribute to 50% of world population globally. 
 - The top two contries contribute to population in Asia are china and India.
 
