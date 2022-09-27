@@ -16,7 +16,12 @@ world population
 
 ## Result
 
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ-API_TASK/blob/main/tnqflask.PNG" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_1.png" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_2.png" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_34.png" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_7.png" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_ipu.png" width=600>
 
 
 ## Technologies Used
