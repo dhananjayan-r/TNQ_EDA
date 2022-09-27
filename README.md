@@ -3,11 +3,12 @@ world population
 
 ## Table of Content
   * [Requirement](#Requirement)
-  * [Population by continents and countries wise](#Population)
-  * [Population Regression Plot](#Population Regression Plot)
-  * [Growth rate map view](#Growth rate map view)
-  * [Top Countries with highest Growth rate](#Top Countries with highest Growth rate)
-  * [PREDICTION FORECAST](#PREDICTION FORECAST)
+  * [Population by continents and countries wise](#Population-by-continents-and-countries-wise)
+  * [Population Regression Plot](#Population-Regression-Plot)
+  * [Growth rate map view](#Growth-rate-map-view)
+  * [Top Countries with highest Growth rate](#Top-Countries-with-highest-Growth-rate)
+  * [PREDICTION FORECAST](#PREDICTION-FORECAST)
+  * [INFERENCE](#INFERENCE)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
@@ -35,8 +36,19 @@ world population
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_34" width=600>.
 - As we have observed growth rate we can conclude that African countries will contribute to world population the most in future.
 ## PREDICTION FORECAST
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_ipu" width=600>
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_ipu" width=600>.
+- From year to year, world population is increasing.
+- World population is projected to reach 10 billion people by 2050.
 
+## INFERENCE
+- We can see that the Asian continent contribute to 50% of world population globally. 
+- The top two contries contribute to population in Asia are china and India.
+- On seeing the above graph we can assume that the population is increasing in average of one billion per decade.
+- The 5 countries with the highest growth rates are Moldova, Polandia, Niger, Syria, and Slovakia by 2022. 
+- If it continues, Moldova's population will reach 5 times more by 2050.
+- As we have observed growth rate we can conclude that African countries will contribute to world population the most in future.
+- From year to year, world population is increasing.
+- World population is projected to reach 10 billion people by 2050.
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
