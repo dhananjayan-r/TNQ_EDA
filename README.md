@@ -3,7 +3,7 @@ world population
 
 ## Table of Content
   * [Requirement](#Requirement)
-  * [Population by continents and countries wise](#Population by continents and countries wise)
+  * [Population by continents and countries wise](#Population)
   * [Population Regression Plot](#Population Regression Plot)
   * [Growth rate map view](#Growth rate map view)
   * [Top Countries with highest Growth rate](#Top Countries with highest Growth rate)
