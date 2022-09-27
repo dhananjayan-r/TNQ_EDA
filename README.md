@@ -7,6 +7,7 @@ world population
   * [Population Regression Plot](#Population Regression Plot)
   * [Growth rate map view](#Growth rate map view)
   * [Top Countries with highest Growth rate](#Top Countries with highest Growth rate)
+  * [PREDICTION FORECAST](#PREDICTION FORECAST)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
@@ -33,7 +34,7 @@ world population
 ## Top Countries with highest Growth rate
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_34" width=600>.
 - As we have observed growth rate we can conclude that African countries will contribute to world population the most in future.
-
+## PREDICTION FORECAST
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_ipu" width=600>
 
 
