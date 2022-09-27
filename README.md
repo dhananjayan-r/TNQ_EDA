@@ -19,7 +19,7 @@ world population
 
 ## Population by continents and countries wise
 
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600 height=600>.
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600 >.
 - We can see that the Asian continent contribute to 50% of world population globally. 
 - The top two contries contribute to population in Asia are china and India.
 
@@ -27,13 +27,13 @@ world population
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_1" width=600>.
 - On seeing the above graph we can assume that the population is increasing in average of one billion per decade.
 ## Growth rate map view
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_2" width=600>.
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_7" width=600>.
 - The 5 countries with the highest growth rates are Moldova, Polandia, Niger, Syria, and Slovakia by 2022. 
 - If it continues, Moldova's population will reach 5 times more by 2050.
 ## Top Countries with highest Growth rate
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_34" width=600>.
 - As we have observed growth rate we can conclude that African countries will contribute to world population the most in future.
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_7" width=600>
+
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_ipu" width=600>
 
 
