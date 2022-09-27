@@ -3,7 +3,8 @@ world population
 
 ## Table of Content
   * [Requirement](#Requirement)
-  * [Result](#Result)
+  * [Population by continents and countries wise](#Population by continents and countries wise)
+  * [Population Regression Plot](#Population Regression Plot)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
@@ -14,13 +15,15 @@ world population
 3. you might submit the code in jupyter notebook.
 
 
-## Result
+## Population by continents and countries wise
 
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot.png" width=600>
 - We can see that the Asian continent contribute to 50% of world population globally. 
 - The top two contries contribute to population in Asia are china and India.
-<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_1" width=600>
 
+## Population Regression Plot 
+<img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_1" width=600>
+- On seeing the above graph we can assume that the population is increasing in average of one billion per decade.
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_2" width=600>
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_34" width=600>
 <img target="_blank" src="https://github.com/dhananjayan-r/TNQ_EDA/blob/main/images/newplot_7" width=600>
